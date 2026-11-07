@@ -43,11 +43,12 @@ I am currently improving my skills in **Java, Spring Boot, and React**. I am loo
 
 ## `> ls ./projects` — Proyectos destacados | Featured projects
 
-### 🛒 TechnoStore — E-commerce web application
+### 🛒 TechnoStore — E-commerce Web Application
+> **Proyecto SENA** | *Octubre 2026 – Noviembre 2026*
 
-**Proyecto SENA · Oct 2026 – Nov 2026**
+Plataforma de comercio electrónico orientada a la venta de productos tecnológicos.
 
-[![Visitar TechnoStore](ttps://ihmg.shields.io/badge/Ver_proyecto-Technostore-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://technostore.nexohuila.com/)
+[🌐 **Visitar sitio web live**](https://technostore.nexohuila.com/)
 
 - Lideré un equipo de **4 personas** aplicando Scrum para organizar el trabajo y entregar el proyecto.
 - Desarrollé funcionalidades de frontend y backend con PHP, JavaScript, HTML y CSS.
