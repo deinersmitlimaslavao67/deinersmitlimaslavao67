@@ -48,7 +48,7 @@ I am currently improving my skills in **Java, Spring Boot, and React**. I am loo
 
 **Proyecto SENA · Oct 2026 – Nov 2026**
 
-[![Visitar TechnoStore](https://ihmg.shields.io/badge/Ver_proyecto-Technostore-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://technostore.nexohuila.com/)
+[![Visitar TechnoStore](ttps://ihmg.shields.io/badge/Ver_proyecto-Technostore-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://technostore.nexohuila.com/)
 
 - Lideré un equipo de **4 personas** aplicando Scrum para organizar el trabajo y entregar el proyecto.
 - Desarrollé funcionalidades de frontend y backend con PHP, JavaScript, HTML y CSS.
@@ -62,7 +62,7 @@ I am currently improving my skills in **Java, Spring Boot, and React**. I am loo
 
 **Proyecto personal · Mar 2025 – Jun 2025**
 
-[![visitar ELECCIONES]]([https://github.com/deinersmitlimaslavao67](https://github.com/deinersmitlimaslavao67/ELECCIONES.git))
+[!]([https://github.com/deinersmitlimaslavao67](https://github.com/deinersmitlimaslavao67/ELECCIONES.git))
 
 - Desarrollé una aplicación web para gestionar elecciones estudiantiles.
 - Implementé registro de votantes, control de voto único y conteo de resultados.
