@@ -62,7 +62,7 @@ I am currently improving my skills in **Java, Spring Boot, and React**. I am loo
 
 **Proyecto personal · Mar 2025 – Jun 2025**
 
-[![Repositorio pendiente](https://img.shields.io/badge/GitHub-Repositorio_pendiente-181717?style=flat-square&logo=github)](https://github.com/deinersmitlimaslavao67)
+[![Repositorio pendiente](https://img.shields.io/badge/GitHub-Repositorio_pendiente-181717?style=flat-square&logo=github)]([https://github.com/deinersmitlimaslavao67](https://github.com/deinersmitlimaslavao67/ELECCIONES.git))
 
 - Desarrollé una aplicación web para gestionar elecciones estudiantiles.
 - Implementé registro de votantes, control de voto único y conteo de resultados.
