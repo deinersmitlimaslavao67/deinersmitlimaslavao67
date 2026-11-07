@@ -58,11 +58,10 @@ Plataforma de comercio electrónico orientada a la venta de productos tecnológi
 
 **Tecnologías:** `PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Git` `GitHub` `Scrum`
 
-### 🗳️ Sistema de Elecciones Estudiantiles — Student Election System
+### 🗳️ Sistema de Votaciones — Proyecto Electoral
+*Proyecto personal • Mar 2025 – Jun 2025*
 
-**Proyecto personal · Mar 2025 – Jun 2025**
-
-(([https://github.com/deinersmitlimaslavao67/ELECCIONES.git]))
+[![Ver Repositorio en GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deinersmitlimaslavao67/ELECCIONES)
 
 - Desarrollé una aplicación web para gestionar elecciones estudiantiles.
 - Implementé registro de votantes, control de voto único y conteo de resultados.
