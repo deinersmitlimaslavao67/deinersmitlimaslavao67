@@ -16,7 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao67-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449))
 
 📍 Neiva, Huila, Colombia · Disponible para oportunidades Trainee
 
@@ -151,7 +151,7 @@ I am open to learning opportunities, internships, and Trainee Software Developer
 
 [![Email](https://img.shields.io/badge/Email-limasdeiner%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449))
 
 </div>
 
