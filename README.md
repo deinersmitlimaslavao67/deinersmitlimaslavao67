@@ -88,22 +88,43 @@
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="35" /> Estadísticas de Combate (`Git Stats & Top Languages`)
 
+<!-- FILA 1: RESUMEN GENERAL DE PERFIL (CARGA SIEMPRE) -->
 <div align="center">
-  <!-- GITHUB STATS + TODOS LOS LENGUAJES EN PARALELO -->
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=deinersmitlimaslavao67&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F0817&title_color=9D4EDD&text_color=E0AAFF&icon_color=E63946&border_color=4B365F&border_radius=10" alt="Deiner GitHub Stats" />
-  </a>
-  <a href="https://github.com/deinersmitlimaslavao67">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinersmitlimaslavao67&layout=compact&langs_count=20&count_private=true&bg_color=0F0817&title_color=9D4EDD&text_color=E0AAFF&border_color=4B365F&border_radius=10" alt="Deiner Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deinersmitlimaslavao67&theme=2077" width="100%" alt="Profile Details" />
   </a>
 </div>
 
 <br />
 
+<!-- FILA 2: STATS + TOP LANGUAGES POR REPOSITORIO Y POR COMMIT -->
 <div align="center">
-  <!-- RACHA DE CONTRIBUCIONES (STREAK STATS) -->
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deinersmitlimaslavao67&theme=2077" alt="Stats" />
+  </a>
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Commit" />
+  </a>
+</div>
+
+<br />
+
+<!-- FILA 3: RACHA DE CONTRIBUCIONES (STREAK STATS CON TEMA GENGAR) -->
+<div align="center">
   <a href="https://github.com/deinersmitlimaslavao67">
     <img src="https://streak-stats.demolab.com?user=deinersmitlimaslavao67&background=0F0817&border=4B365F&stroke=4B365F&ring=E63946&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C77DFF&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<!-- FILA 4: GRÁFICO DE ACTIVIDAD EN SOMBRAS (ACTIVITY GRAPH) -->
+<div align="center">
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deinersmitlimaslavao67&bg_color=0F0817&color=9D4EDD&line=E63946&point=FFFFFF&area=true&area_color=4B365F&hide_border=false&border_color=4B365F&custom_title=Actividad%20de%20Commits%20en%20las%20Sombras" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
