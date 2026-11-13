@@ -1,169 +1,119 @@
-<!--
-  Perfil README de GitHub
-  Repositorio: deinersmitlimaslavao67/deinersmitlimaslavao67
-  Reemplaza los enlaces marcados como PENDIENTE antes de publicar.
--->
+<!-- HEADER CON ONDAS ANIMADAS EN TONOS GENGAR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A1025,4B365F,7B2CBF&height=220&section=header&text=Deiner%20Smit%20Limas%20Lavao&fontSize=42&fontColor=F3E8EE&animation=fadeIn&fontAlignY=35&desc=%F0%9F%91%BB%20Full-Stack%20Developer%20%7C%20Software%20Architecture%20%26%20QA%20%F0%9F%91%BB&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+</div>
+
+<!-- TYPING SVG (EFECTO DE ESCRITURA EN MORADO NEÓN) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Desarrollador+Full-Stack+(Web+%26+Mobile);Arquitectura+de+Software+escalable+y+limpia;Backend+con+Spring+Boot%2C+PHP+y+Python;Frontend+con+React%2C+TypeScript+y+React+Native;Domando+bugs+en+las+sombras+como+Gengar+%F0%9F%91%BE" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-4B365F?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1025" alt="Focus" />
+  </a>
+  <img src="https://img.shields.io/badge/Estado-Construyendo%20Soluciones-9D4EDD?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1A1025" alt="Status" />
+  <img src="https://img.shields.io/badge/Ubicación-Huila%2C%20Colombia-E63946?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1A1025" alt="Location" />
+</p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="35" /> `whoami` // Sobre Mí
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <p>¡Hola! Soy <b>Deiner Smit Limas Lavao</b>, Desarrollador <b>Full-Stack</b> y Tecnólogo en Análisis y Desarrollo de Software (ADSO). Me especializo en transformar requerimientos complejos en ecosistemas digitales completos, desde el diseño de bases de datos relacionales/geoespaciales y APIs robustas hasta interfaces web y móviles fluidas.</p>
+      <ul>
+        <li>🔭 <b>Enfoque actual:</b> Desarrollo de plataformas multi-tenant, aplicaciones de comercio electrónico y sistemas inteligentes con integración de IA.</li>
+        <li>🛡️ <b>Calidad y Arquitectura:</b> Liderazgo en planes de aseguramiento de calidad (QA), control de versiones estructurado con Git/GitHub, revisión de Pull Requests y modelado UML/ERD.</li>
+        <li>⚡ <b>Filosofía de código:</b> <i>"En las sombras del backend o en el brillo del frontend, cada línea cuenta para lograr un rendimiento fantasma: rápido, silencioso y letal contra los bugs."</i></li>
+      </ul>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="210" alt="Gengar Artwork" />
+      <br />
+      <sub><b>#094 Gengar</b> — <i>Shadow Tech Spirit</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif" width="32" /> Arsenal Tecnológico (`Tech Stack`)
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner de Deiner Smit Limas Lavao" width="100%" />
+#### **Lenguajes de Programación**
+![Java](https://img.shields.io/badge/Java-1A1025?style=for-the-badge&logo=openjdk&logoColor=9D4EDD)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1025?style=for-the-badge&logo=typescript&logoColor=9D4EDD)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1025?style=for-the-badge&logo=javascript&logoColor=9D4EDD)
+![Python](https://img.shields.io/badge/Python-1A1025?style=for-the-badge&logo=python&logoColor=9D4EDD)
+![PHP](https://img.shields.io/badge/PHP-1A1025?style=for-the-badge&logo=php&logoColor=9D4EDD)
+![SQL](https://img.shields.io/badge/SQL-1A1025?style=for-the-badge&logo=postgresql&logoColor=9D4EDD)
 
-# 👨‍💻 Deiner Smit Limas Lavao
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-4B365F?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-4B365F?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-4B365F?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4B365F?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4B365F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4B365F?style=for-the-badge&logo=css3&logoColor=white)
 
-### `Practicante de Desarrollo` · `Soporte Técnico` · `Fullstack Developer`
-
-**Code • Learn • Build • Improve**
-
-[![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao67-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
-📍 Neiva, Huila, Colombia · Disponible para oportunidades Trainee
+#### **Backend, Bases de Datos & Herramientas**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-240046?style=for-the-badge&logo=springboot&logoColor=E63946)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-240046?style=for-the-badge&logo=postgresql&logoColor=E63946)
+![PostGIS](https://img.shields.io/badge/PostGIS-240046?style=for-the-badge&logo=openstreetmap&logoColor=E63946)
+![MySQL](https://img.shields.io/badge/MySQL-240046?style=for-the-badge&logo=mysql&logoColor=E63946)
+![Git](https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=E63946)
+![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=E63946)
 
 </div>
 
 ---
 
-## `> whoami` — Sobre mí | About me
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif" width="32" /> Proyectos Destacados
 
-**ES 🇨🇴**
-
-Soy Técnico en Sistemas Teleinformáticos y estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA. Me enfoco en el desarrollo Fullstack de aplicaciones web utilizando PHP, JavaScript, MySQL, HTML y CSS. He trabajado en proyectos académicos y personales, incluyendo una aplicación desplegada en producción y un proyecto liderado en equipo mediante la metodología Scrum.
-
-Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot y React**. Busco mi primera oportunidad como **Trainee Software Developer**, donde pueda aportar, aprender de un equipo y crecer profesionalmente.
-
-**EN 🇬🇧**
-
-I am a Telecommunications Systems Technician and a Software Analysis and Development student at SENA. I focus on full-stack web development using PHP, JavaScript, MySQL, HTML, and CSS. I have worked on academic and personal projects, including a deployed web application and a team project led using the Scrum methodology.
-
-I am currently improving my skills in **Java, Spring Boot, and React**. I am looking for my first opportunity as a **Trainee Software Developer**, where I can contribute, learn from a team, and grow professionally.
-
-> 🎯 **Objetivo / Goal:** Conseguir una oportunidad como Trainee Software Developer.
+| Proyecto | Arquitectura & Stack | Descripción |
+| :--- | :--- | :--- |
+| 🍔 **NexoFood** | `React` `Vite` `TS` `Spring Boot` `PostgreSQL` `PostGIS` `Expo` | Plataforma **Full-Stack multi-tenant** web y móvil para gestión de restaurantes, menús interactivos y logística geolocalizada para repartidores independientes. |
+| 🛒 **TechnoStore** | `PHP` `MySQL` `JS` `HTML5` `CSS3` `Git` | Sistema e-commerce y catálogo tecnológico con flujo de ramas estructurado, control de calidad (QA) y gestión de inventario. |
+| 🗳️ **ELECTOYA** | `Full-Stack Web` `SQL` | Plataforma de elecciones estudiantiles con interfaz de votación segura en tiempo real y panel administrativo de escrutinio. |
+| 🤖 **Clasificador IA** | `Python` `AI / ML` | Sistema inteligente de clasificación automatizada para la separación de residuos degradables y no degradables. |
 
 ---
 
-## `> ls ./projects` — Proyectos destacados | Featured projects
-
-### 🛒 TechnoStore — E-commerce Web Application
-> **Proyecto SENA** | *Octubre 2026 – Noviembre 2026*
-
-Plataforma de comercio electrónico orientada a la venta de productos tecnológicos.
-
-[🌐 **Visitar sitio web live**](https://technostore.nexohuila.com/)
-
-- Lideré un equipo de **4 personas** aplicando Scrum para organizar el trabajo y entregar el proyecto.
-- Desarrollé funcionalidades de frontend y backend con PHP, JavaScript, HTML y CSS.
-- Diseñé y gestioné una base de datos MySQL con **8 tablas, 21 procedimientos almacenados y 4 vistas**.
-- Implementé funcionalidades de usuarios, carrito de compras y administración.
-- Desplegué la aplicación en Hostinger y gestioné el código con Git y GitHub.
-
-**Tecnologías:** `PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Git` `GitHub` `Scrum`
-
-### 🗳️ Sistema de Votaciones — Proyecto Electoral
-*Proyecto personal • Mar 2025 – Jun 2025*
-
-[![Ver Repositorio en GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deinersmitlimaslavao67/ELECCIONES)
-
-- Desarrollé una aplicación web para gestionar elecciones estudiantiles.
-- Implementé registro de votantes, control de voto único y conteo de resultados.
-- Construí la aplicación con PHP, JavaScript, HTML, CSS y MySQL.
-
-**Tecnologías:** `PHP` `JavaScript` `HTML5` `CSS3` `MySQL`
-
----
-
-## `> tech --list` — Habilidades técnicas | Technical skills
-
-| Área | Tecnologías |
-|---|---|
-| **Backend** | PHP · Java · Python · Node.js · Spring Boot *(en formación)* |
-| **Frontend** | JavaScript · HTML5 · CSS3 · React *(en formación)* |
-| **Bases de datos** | MySQL · PostgreSQL · SQL |
-| **Herramientas** | Git · GitHub · Linux · VS Code · APIs REST |
-| **Metodologías** | Scrum |
-
-### Tecnologías
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/94.gif" width="35" /> Estadísticas de Combate en GitHub
 
 <div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=deinersmitlimaslavao67&show_icons=true&bg_color=1A1025&title_color=9D4EDD&text_color=F3E8EE&icon_color=E63946&border_color=4B365F&hide_border=false" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinersmitlimaslavao67&layout=compact&bg_color=1A1025&title_color=9D4EDD&text_color=F3E8EE&border_color=4B365F&hide_border=false" alt="Top Languages" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=php,java,python,nodejs,spring,js,html,css,react,mysql,postgres,git,github,linux,vscode&perline=8" alt="Tecnologías y herramientas" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=deinersmitlimaslavao67&background=1A1025&border=4B365F&stroke=4B365F&ring=E63946&fire=9D4EDD&currStreakNum=F3E8EE&sideNums=F3E8EE&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C77DFF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## `> git stats` — Estadísticas de GitHub
+### 🔮 Conecta Conmigo
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deinersmitlimaslavao67&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinersmitlimaslavao67&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Lenguajes más utilizados" />
-
-<img src="https://streak-stats.demolab.com?user=deinersmitlimaslavao67&theme=chartreuse-dark&hide_border=true" alt="Racha de contribuciones" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deinersmitlimaslavao67&theme=github-compact&hide_border=true" alt="Actividad de GitHub" width="100%" />
-
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img src="https://img.shields.io/badge/GitHub-@deinersmitlimaslavao67-1A1025?style=for-the-badge&logo=github&logoColor=9D4EDD" alt="GitHub" />
+  </a>
+  <!-- Reemplaza los enlaces de abajo con tus URLs reales de LinkedIn o Correo -->
+  <a href="mailto:tu_correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-4B365F?style=for-the-badge&logo=gmail&logoColor=E63946" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Deiner%20Limas-240046?style=for-the-badge&logo=linkedin&logoColor=9D4EDD" alt="LinkedIn" />
+  </a>
 </div>
 
----
-
-## `> experience` — Experiencia
-
-**Auxiliar de Mantenimiento Preventivo de Equipos de Cómputo**  
-Colegio José Reinel Cerquera · Neiva, Huila  
-*May 2025 – Oct 2025*
-
-- Realicé mantenimiento preventivo a **40 equipos de cómputo**.
-- Ejecuté limpieza de hardware, actualización de software e instalación de sistemas operativos.
-- Diagnostiqué fallas y brindé soporte técnico a docentes y estudiantes.
-
----
-
-## `> education` — Educación
-
-- **Tecnólogo en Análisis y Desarrollo de Software** — SENA  
-  En curso · Graduación estimada: junio de 2028.
-- **Técnico en Sistemas Teleinformáticos** — SENA  
-  Noviembre de 2025.
-
-## `> certifications` — Certificaciones
-
-- **Fundamentos de GitHub** — Microsoft Learn · 2026.
-
-## `> soft-skills` — Habilidades blandas
-
-Liderazgo · Trabajo en equipo · Resolución de problemas · Aprendizaje autónomo · Comunicación.
-
-## `> languages` — Idiomas
-
-- **Español:** nativo.
-- **Inglés:** B1 — lectura técnica y conversación básica.
-
----
-
-## `> contact --me` — Contacto | Get in touch
-
+<!-- FOOTER ANIMADO -->
 <div align="center">
-
-Estoy abierto a oportunidades de aprendizaje, prácticas y empleo como **Trainee Software Developer**.
-
-I am open to learning opportunities, internships, and Trainee Software Developer positions.
-
-[![Email](https://img.shields.io/badge/Email-limasdeiner%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-> echo "Siempre aprendiendo. Siempre construyendo."
-> status: open_to_work
-> next_goal: become_a_better_developer()
-```
-
-**“Dream big. Code bigger.”** 🚀
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A1025,4B365F,7B2CBF&height=110&section=footer" width="100%" alt="Footer Banner" />
 </div>
