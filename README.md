@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL PIXEL ART GENGAR -->
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Deiner Smit Limas Lavao - Full-Stack Developer Banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="Deiner Smit Limas Lavao - Full-Stack Developer Banner" />
 </div>
 
 <br />
