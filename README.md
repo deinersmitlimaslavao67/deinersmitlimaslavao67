@@ -88,25 +88,28 @@
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="35" /> Estadísticas de Combate (`Git Stats & Top Languages`)
 
-<!-- FILA 1: RESUMEN GENERAL DE PERFIL (CARGA SIEMPRE) -->
+<!-- FILA 1: CURVA DE CONTRIBUCIONES Y DETALLES DE PERFIL (ESTABLE) -->
 <div align="center">
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deinersmitlimaslavao67&theme=2077" width="100%" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deinersmitlimaslavao67&theme=2077" width="100%" alt="Profile Details & Activity Graph" />
   </a>
 </div>
 
 <br />
 
-<!-- FILA 2: STATS + TOP LANGUAGES POR REPOSITORIO Y POR COMMIT -->
+<!-- FILA 2: STATS + TOP LANGUAGES + HORARIO DE CÓDIGO EN LAS SOMBRAS -->
 <div align="center">
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deinersmitlimaslavao67&theme=2077" alt="Stats" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deinersmitlimaslavao67&theme=2077" alt="Stats" />
   </a>
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Repo" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Repo" />
   </a>
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Commit" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deinersmitlimaslavao67&theme=2077" alt="Top Languages by Commit" />
+  </a>
+  <a href="https://github.com/deinersmitlimaslavao67">
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deinersmitlimaslavao67&theme=2077&utcOffset=-5" alt="Productive Time" />
   </a>
 </div>
 
@@ -121,10 +124,10 @@
 
 <br />
 
-<!-- FILA 4: GRÁFICO DE ACTIVIDAD EN SOMBRAS (ACTIVITY GRAPH) -->
+<!-- FILA 4: MAPA DE CONTRIBUCIONES EN MORADO GENGAR -->
 <div align="center">
   <a href="https://github.com/deinersmitlimaslavao67">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deinersmitlimaslavao67&bg_color=0F0817&color=9D4EDD&line=E63946&point=FFFFFF&area=true&area_color=4B365F&hide_border=false&border_color=4B365F&custom_title=Actividad%20de%20Commits%20en%20las%20Sombras" width="100%" alt="Activity Graph" />
+    <img src="https://ghchart.rshah.org/7B2CBF/deinersmitlimaslavao67" width="100%" alt="Mapa de Contribuciones en Morado Gengar" />
   </a>
 </div>
 
