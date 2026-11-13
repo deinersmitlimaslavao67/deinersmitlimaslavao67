@@ -185,3 +185,28 @@ Plataforma de comercio electrónico orientada a la venta de productos tecnológi
       <p><code>Liderazgo</code> · <code>Trabajo en equipo</code> · <code>Resolución de problemas</code> · <code>Aprendizaje autónomo</code> · <code>Comunicación</code></p>
       <hr />
       <h4>🌐 <code>&gt; languages</code> — Idiomas
+
+### 🔮 Conecta Conmigo
+
+<div align="center">
+  <a href="mailto:limasdeiner@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-limasdeiner%40gmail.com-0F0817?style=for-the-badge&logo=gmail&logoColor=E63946&labelColor=240046" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deiner%20Smit%20Limas-0F0817?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=240046" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/limasx.exe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@limasx.exe-0F0817?style=for-the-badge&logo=instagram&logoColor=E63946&labelColor=240046" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@limazzz._" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@limazzz.__-0F0817?style=for-the-badge&logo=tiktok&logoColor=9D4EDD&labelColor=240046" alt="TikTok" />
+  </a>
+  <a href="https://github.com/deinersmitlimaslavao67" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@deinersmitlimaslavao67-0F0817?style=for-the-badge&logo=github&logoColor=white&labelColor=240046" alt="GitHub" />
+  </a>
+</div>
+
+<!-- FOOTER PIXEL / SOMBRA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F0817,240046,4B365F&height=90&section=footer" width="100%" alt="Footer Banner" />
+</div>
