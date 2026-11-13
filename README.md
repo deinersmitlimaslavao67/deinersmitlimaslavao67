@@ -185,6 +185,10 @@ Plataforma de comercio electrónico orientada a la venta de productos tecnológi
       <p><code>Liderazgo</code> · <code>Trabajo en equipo</code> · <code>Resolución de problemas</code> · <code>Aprendizaje autónomo</code> · <code>Comunicación</code></p>
       <hr />
       <h4>🌐 <code>&gt; languages</code> — Idiomas
+      </h4>
+    </td>
+  </tr>
+</table>
 
 ### 🔮 Conecta Conmigo
 
