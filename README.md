@@ -1,112 +1,169 @@
-<!-- BANNER ANIMADO SUPERIOR -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Deiner%20Smit%20Limas%20Lavao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Architecture%20%7C%20QA%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
-</p>
+<!--
+  Perfil README de GitHub
+  Repositorio: deinersmitlimaslavao67/deinersmitlimaslavao67
+  Reemplaza los enlaces marcados como PENDIENTE antes de publicar.
+-->
 
-<!-- TEXTO ANIMADO (TYPING SVG) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hola%2C+soy+Deiner+Limas+%7C+Desarrollador+Full+Stack;%F0%9F%9A%80+Construyendo+aplicaciones+Web%2C+M%C3%B3viles+y+APIs+escalables;%F0%9F%9B%A1%EF%B8%8F+L%C3%ADder+en+Control+de+Calidad+(QA)+y+Git+Workflow;%F0%9F%A4%96+Apasionado+por+la+Arquitectura+de+Software%2C+IA+y+Rob%C3%B3tica" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<!-- BADGES DE REDES Y ESTADO -->
-<p align="center">
-  <a href="https://github.com/deinersmitlimaslavao67">
-    <img src="https://komarev.com/ghpvc/?username=deinersmitlimaslavao67&label=Visitas%20al%20perfil&color=3b82f6&style=for-the-badge" alt="Visitas" />
-  </a>
-  <a href="https://github.com/deinersmitlimaslavao67?tab=followers">
-    <img src="https://img.shields.io/github/followers/deinersmitlimaslavao67?label=Seguidores&style=for-the-badge&color=1e3a8a&logo=github" alt="Seguidores" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Contacto-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="assets/banner.png" alt="Banner de Deiner Smit Limas Lavao" width="100%" />
+
+# 👨‍💻 Deiner Smit Limas Lavao
+
+### `Practicante de Desarrollo` · `Soporte Técnico` · `Fullstack Developer`
+
+**Code • Learn • Build • Improve**
+
+[![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao67-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
+📍 Neiva, Huila, Colombia · Disponible para oportunidades Trainee
+
+</div>
 
 ---
 
-### 🧑‍💻 Sobre mí
+## `> whoami` — Sobre mí | About me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+**ES 🇨🇴**
 
-Soy **Desarrollador Full Stack** en formación en **Análisis y Desarrollo de Software (ADSO)**, enfocado en diseñar y construir soluciones tecnológicas completas: desde interfaces dinámicas y aplicaciones móviles hasta arquitecturas backend robustas y bases de datos geoespaciales.
+Soy Técnico en Sistemas Teleinformáticos y estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA. Me enfoco en el desarrollo Fullstack de aplicaciones web utilizando PHP, JavaScript, MySQL, HTML y CSS. He trabajado en proyectos académicos y personales, incluyendo una aplicación desplegada en producción y un proyecto liderado en equipo mediante la metodología Scrum.
 
-- 🔭 **Enfoque actual:** Desarrollo de plataformas multi-tenant y comercio electrónico con **React, TypeScript, Spring Boot, PHP y PostgreSQL (PostGIS)**.
-- 🛡️ **Calidad y Liderazgo Técnico:** Gestión de flujos de trabajo con **Git/GitHub** (Feature Branching, revisión de Pull Requests, seguridad de entornos y planes de aseguramiento de calidad - QA).
-- 🧠 **Innovación:** Exploración continua en **Inteligencia Artificial**, visión por computadora, robótica y diseño de sistemas con **UML / ERD**.
-- 🎯 **Meta profesional:** Consolidarme como Arquitecto de Software y fundar mi propia empresa de tecnología.
+Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot y React**. Busco mi primera oportunidad como **Trainee Software Developer**, donde pueda aportar, aprender de un equipo y crecer profesionalmente.
 
-<br clear="right"/>
+**EN 🇬🇧**
 
----
+I am a Telecommunications Systems Technician and a Software Analysis and Development student at SENA. I focus on full-stack web development using PHP, JavaScript, MySQL, HTML, and CSS. I have worked on academic and personal projects, including a deployed web application and a team project led using the Scrum methodology.
 
-### 🛠️ Stack Tecnológico
+I am currently improving my skills in **Java, Spring Boot, and React**. I am looking for my first opportunity as a **Trainee Software Developer**, where I can contribute, learn from a team, and grow professionally.
 
-#### 💻 Lenguajes y Desarrollo Frontend / Mobile
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,php,py,html,css,react,vite&theme=dark" alt="Frontend & Languages" />
-  </a>
-  <img src="https://img.shields.io/badge/React_Native-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo" />
-</p>
-
-#### ⚙️ Backend, Bases de Datos y Herramientas
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,git,github,vscode,postman,linux&theme=dark" alt="Backend & Tools" />
-  </a>
-  <img src="https://img.shields.io/badge/PostGIS-Geoespacial-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Draw.io-UML_%26_ERD-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" height="48" alt="Draw.io" />
-</p>
+> 🎯 **Objetivo / Goal:** Conseguir una oportunidad como Trainee Software Developer.
 
 ---
 
-### 🚀 Proyectos Destacados
+## `> ls ./projects` — Proyectos destacados | Featured projects
 
-| Proyecto | Descripción | Tecnologías Clave | Rol |
-| :--- | :--- | :--- | :--- |
-| 🍔 **NexoFood** | Plataforma multi-tenant web y móvil para gestión de restaurantes, menús digitales interactivos y logística de domiciliarios independientes con geolocalización. | `React` `Vite` `TypeScript` `Spring Boot` `PostgreSQL + PostGIS` `Expo` | Full Stack & Arquitectura |
-| 🛒 **TechnoStore** | Catálogo y plataforma de e-commerce especializada en hardware y periféricos tecnológicos con flujo colaborativo por ramas (`dev`, `test`, `main`). | `PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Git` | Full Stack & QA / Git Lead |
-| 🗳️ **ELECTOYA** | Sistema de elecciones estudiantiles con interfaz intuitiva de votación en tiempo real y panel administrativo de escrutinio y gestión. | `Web Stack` `SQL` ` Arquitectura MVC` | Creador & Full Stack |
-| ♻️ **AI Waste Classifier** | Sistema inteligente de clasificación automatizada para separar residuos degradables y no degradables mediante modelos de IA. | `Python` `Inteligencia Artificial` `Robótica` | Desarrollador IA |
+### 🛒 TechnoStore — E-commerce Web Application
+> **Proyecto SENA** | *Octubre 2026 – Noviembre 2026*
 
----
+Plataforma de comercio electrónico orientada a la venta de productos tecnológicos.
 
-### 🏆 Logros y Experiencia Clave
+[🌐 **Visitar sitio web live**](https://technostore.nexohuila.com/)
 
-- 🥇 **Liderazgo en Aseguramiento de Calidad (PAC) y Control de Versiones:** Estandarización de flujos Git en equipo, revisiones de código mediante Pull Requests, protección de credenciales (`.gitignore` / variables de entorno) y seguimiento estructurado de bugs.
-- 🗄️ **Dominio de Bases de Datos Relacionales y Espaciales:** Resolución de más de 110 casos prácticos avanzados en SQL/MySQL y modelado de consultas geográficas con PostgreSQL y PostGIS.
-- 📐 **Ingeniería de Requisitos y Modelado:** Diseño de arquitecturas limpias documentadas con diagramas de casos de uso, flujos de actividad, modelos de dominio y diagramas Entidad-Relación (ERD).
-- 🤝 **Liderazgo y Trabajo Colaborativo:** Participación activa en representación estudiantil, debates tecnológicos y coordinación de equipos ágiles de desarrollo.
+- Lideré un equipo de **4 personas** aplicando Scrum para organizar el trabajo y entregar el proyecto.
+- Desarrollé funcionalidades de frontend y backend con PHP, JavaScript, HTML y CSS.
+- Diseñé y gestioné una base de datos MySQL con **8 tablas, 21 procedimientos almacenados y 4 vistas**.
+- Implementé funcionalidades de usuarios, carrito de compras y administración.
+- Desplegué la aplicación en Hostinger y gestioné el código con Git y GitHub.
 
----
+**Tecnologías:** `PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Git` `GitHub` `Scrum`
 
-### 📊 Estadísticas y Actividad en GitHub
+### 🗳️ Sistema de Votaciones — Proyecto Electoral
+*Proyecto personal • Mar 2025 – Jun 2025*
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deinersmitlimaslavao67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trofeos de GitHub" />
-</p>
+[![Ver Repositorio en GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deinersmitlimaslavao67/ELECCIONES)
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=deinersmitlimaslavao67&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinersmitlimaslavao67&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+- Desarrollé una aplicación web para gestionar elecciones estudiantiles.
+- Implementé registro de votantes, control de voto único y conteo de resultados.
+- Construí la aplicación con PHP, JavaScript, HTML, CSS y MySQL.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deinersmitlimaslavao67&theme=tokyonight&hide_border=true&background=0D1117&locale=es" alt="GitHub Streak" />
-</p>
-
-<!-- GRÁFICO ANIMADO DE ACTIVIDAD -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deinersmitlimaslavao67&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" width="95%" alt="Gráfico de actividad" />
-</p>
+**Tecnologías:** `PHP` `JavaScript` `HTML5` `CSS3` `MySQL`
 
 ---
 
-<!-- FOOTER ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0f172a&height=120&section=footer&text=Construyendo%20el%20futuro%20l%C3%ADnea%20por%20l%C3%ADnea%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
-</p>
+## `> tech --list` — Habilidades técnicas | Technical skills
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | PHP · Java · Python · Node.js · Spring Boot *(en formación)* |
+| **Frontend** | JavaScript · HTML5 · CSS3 · React *(en formación)* |
+| **Bases de datos** | MySQL · PostgreSQL · SQL |
+| **Herramientas** | Git · GitHub · Linux · VS Code · APIs REST |
+| **Metodologías** | Scrum |
+
+### Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,java,python,nodejs,spring,js,html,css,react,mysql,postgres,git,github,linux,vscode&perline=8" alt="Tecnologías y herramientas" />
+
+</div>
+
+---
+
+## `> git stats` — Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deinersmitlimaslavao67&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinersmitlimaslavao67&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Lenguajes más utilizados" />
+
+<img src="https://streak-stats.demolab.com?user=deinersmitlimaslavao67&theme=chartreuse-dark&hide_border=true" alt="Racha de contribuciones" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deinersmitlimaslavao67&theme=github-compact&hide_border=true" alt="Actividad de GitHub" width="100%" />
+
+</div>
+
+---
+
+## `> experience` — Experiencia
+
+**Auxiliar de Mantenimiento Preventivo de Equipos de Cómputo**  
+Colegio José Reinel Cerquera · Neiva, Huila  
+*May 2025 – Oct 2025*
+
+- Realicé mantenimiento preventivo a **40 equipos de cómputo**.
+- Ejecuté limpieza de hardware, actualización de software e instalación de sistemas operativos.
+- Diagnostiqué fallas y brindé soporte técnico a docentes y estudiantes.
+
+---
+
+## `> education` — Educación
+
+- **Tecnólogo en Análisis y Desarrollo de Software** — SENA  
+  En curso · Graduación estimada: junio de 2028.
+- **Técnico en Sistemas Teleinformáticos** — SENA  
+  Noviembre de 2025.
+
+## `> certifications` — Certificaciones
+
+- **Fundamentos de GitHub** — Microsoft Learn · 2026.
+
+## `> soft-skills` — Habilidades blandas
+
+Liderazgo · Trabajo en equipo · Resolución de problemas · Aprendizaje autónomo · Comunicación.
+
+## `> languages` — Idiomas
+
+- **Español:** nativo.
+- **Inglés:** B1 — lectura técnica y conversación básica.
+
+---
+
+## `> contact --me` — Contacto | Get in touch
+
+<div align="center">
+
+Estoy abierto a oportunidades de aprendizaje, prácticas y empleo como **Trainee Software Developer**.
+
+I am open to learning opportunities, internships, and Trainee Software Developer positions.
+
+[![Email](https://img.shields.io/badge/Email-limasdeiner%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limasdeiner@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-deinersmitlimaslavao-181717?style=for-the-badge&logo=github)](https://github.com/deinersmitlimaslavao67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deiner-smit-limas-lavao-785b08449)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+> echo "Siempre aprendiendo. Siempre construyendo."
+> status: open_to_work
+> next_goal: become_a_better_developer()
+```
+
+**“Dream big. Code bigger.”** 🚀
+
+</div>
