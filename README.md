@@ -33,8 +33,8 @@
       <p><b>EN 🇬🇧</b> — I am a <b>Telecommunications Systems Technician</b> and a <b>Software Analysis and Development</b> student at SENA. I focus on full-stack web development using PHP, JavaScript, MySQL, HTML, and CSS. I have worked on academic and personal projects, including a deployed web application in production and a team project led using the <b>Scrum</b> methodology.</p>
       <p>I am currently improving my skills in <b>Java, Spring Boot, and React</b>. I am looking for my first opportunity as a <b>Trainee Software Developer</b>, where I can contribute, learn from a team, and grow professionally.</p>
       <blockquote>
-        🎯 <b>Objetivo / Goal:</b> Conseguir una oportunidad como <b>Trainee Software Developer</b>.<br />
-        ⚡ <b>Filosofía:</b> <i>"En las sombras del backend o en el brillo del frontend, cada línea cuenta para lograr un rendimiento fantasma: rápido, silencioso y letal contra los bugs."</i>
+         <b>Objetivo / Goal:</b> Conseguir una oportunidad como <b>Trainee Software Developer</b>.<br />
+         <b>Filosofía:</b> <i>"En las sombras del backend o en el brillo del frontend, cada línea cuenta para lograr un rendimiento fantasma: rápido, silencioso y letal contra los bugs."</i>
       </blockquote>
     </td>
     <td width="28%" align="center" valign="middle">
